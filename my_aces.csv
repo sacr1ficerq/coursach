@@ -1,0 +1,5 @@
+Time,Preflop,Line,Winner,Pot (bb),Effective stack (bb),Dealer,Hero hand,Opponent hand,Extended line,Runout,EV loss IP,EV loss OOP
+2024-03-27 00:32:35,3bp,brc-bc-bc-bc,zondberg,330.0,461.7,hero,AsAd,AhAc,b3.0r15.0c-b15.0c-b80.0c-b220.0c,5cQd5d-3c-8c,-,-
+2024-04-25 09:04:23,3bp,brc-bc-bf,hero,50.0,183.0,zondberg,AsAc,AhQc,b2.5r12.5c-b12.5c-b32.0f,3h9hJd-3s,0.16,0
+2024-04-25 10:14:58,3bp,brc-xbc-xx-bf,hero,36.0,432.5,zondberg,AsAh,Td7d,b3.0r12.0c-xb6.0c-xx-b18.0f,5h4sKd-3s-4c,0.04,0
+2024-04-25 11:15:01,srp,bc-xbrrf,hero,30.0,159.5,hero,AhAd,Jc3c,b3.0c-xb2.0r12.0r32.0f,4s2hTs,0,1.02
